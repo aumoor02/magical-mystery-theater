@@ -1,8 +1,13 @@
+html {
+    background-image: linear-gradient(to bottom right, red, black);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+
 body {
     text-align: center;
     padding: 50px;
-    background-image: linear-gradient(to bottom right, red, black);
-    background-repeat: no-repeat;
 }
 
 h1 {
