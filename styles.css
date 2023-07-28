@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    padding: 50px;
+    background-image: linear-gradient(to bottom right, red, black);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: white;
+    font-size: 8rem;
+}
+
+table {
+    color: white;
+    padding-bottom: 80px;
+    margin: 0 auto;
+}
+
+th {
+    font-size: x-large;
+}
+
+tr, td {
+    border: solid;
+    padding: 20px;
+}
+
+button {
+    padding: 30px;
+    width: 300px;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
